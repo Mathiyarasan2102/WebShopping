@@ -1,0 +1,454 @@
+{
+  "beauty": {
+    "hero": {
+      "title": "\"Beauty That Speaks<br/>Confidence\"",
+      "subtitle": "Step into new-season styles made for confidence and comfort. Elevate your wardrobe with modern design.",
+      "image": "/src/assets/ProductPageImages/BeautyPageImages/BeautyPageBanner.png"
+    },
+
+    "categories": [
+      {
+        "label": "Haircare",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HairCare.png",
+        "link": "/products/beauty/haircare"
+      },
+      {
+        "label": "Skin care",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/SkinCare.png",
+        "link": "/products/beauty/skincare"
+      },
+      {
+        "label": "Makeup",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/MakeUp.png",
+        "link": "/products/beauty/makeup"
+      },
+      {
+        "label": "Hair tools",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HairTools.png",
+        "link": "/products/beauty/hair-tools"
+      },
+      {
+        "label": "Fragrances",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Fragrance.png",
+        "link": "/products/beauty/fragrances"
+      },
+      {
+        "label": "Premium beauty",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/PremiumBeauty.png",
+        "link": "/products/beauty/premium"
+      },
+      {
+        "label": "Travel size",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/TravelSize.png",
+        "link": "/products/beauty/travel-size"
+      },
+      {
+        "label": "Beauty tools",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/BeautyTools.png",
+        "link": "/products/beauty/beauty-tools"
+      },
+      {
+        "label": "Suncare",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/SunCare.png",
+        "link": "/products/beauty/suncare"
+      },
+      {
+        "label": "The Curl Shop",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/CurlSoap.png",
+        "link": "/products/beauty/curl-shop"
+      }
+    ],
+
+    "promoProducts": [
+      {
+        "id": "beauty-promo-1",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/PromoImage.png",
+        "title": "Nourish & Repair",
+        "subtitle": "Deep conditioning treatments for healthy, glossy hair",
+        "link": "/products/beauty/nourish-repair"
+      }
+    ],
+    "trendingSubtitle": "Hand-picked beauty essentials and trending shades.",
+    "highlyRatedSubtitle": "Top-rated by customers — reliable and loved.",
+
+    "highlyRated": [
+      {
+        "id": "h1",
+        "title": "Schwarzkopf Keratin Color Permanent Hair Color, 1.8 Ruby Noir, 1 Application",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HighlyRated1.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/h1"
+      },
+      {
+        "id": "h2",
+        "title": "essence Juicy Bomb Shiny Lipgloss 104 Poppin’ Pomegranate",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HighlyRated2.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/h2"
+      },
+      {
+        "id": "h3",
+        "title": "Wet n Wild Perfect Pout Lip Liner Stain Spilled Wine",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HighlyRated3.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/h3"
+      },
+      {
+        "id": "h4",
+        "title": "essence Hydra Kiss Lip Oil 05 Midnight Mystery",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/HighlyRated4.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/h4"
+      }
+    ],
+
+    "trendingProducts": [
+      {
+        "id": "t1",
+        "title": "KISS Self Adhesive Eyelashes WICKED x imPRESS, Bewitching",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/TrendingProd1.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/t1"
+      },
+      {
+        "id": "t2",
+        "title": "Revlon Super Lustrous Creme Lipstick, Creamy Formula, 046",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/TrendingProd2.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/beauty/t2"
+      }
+    ],
+
+    "brands": [
+      {
+        "name": "Lakme",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Lakme.png"
+      },
+      {
+        "name": "Lotus",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Lotus.png"
+      },
+      {
+        "name": "Forest",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Ayurveda.png"
+      },
+      {
+        "name": "Biotique",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Biotique.png"
+      },
+      {
+        "name": "Himalaya",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Himalaya.png"
+      },
+      {
+        "name": "Mama earth",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/MamaEarth.png"
+      },
+      {
+        "name": "Indulekha",
+        "img": "/src/assets/ProductPageImages/BeautyPageImages/Indulekha.png"
+      }
+    ]
+  },
+
+  "electronics": {
+    "hero": {
+      "title": "\"Unlock the Best Tech <br/> Deals\"",
+      "subtitle": "Experience innovation at your fingertips with electronics designed to keep you ahead in every moment.",
+      "image": "/src/assets/ProductPageImages/ElectronicsPageImages/ElectronicsPageBanner.png"
+    },
+
+    "categories": [
+      {
+        "label": "TV",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Tv.png",
+        "link": "/products/electronics/tv"
+      },
+      {
+        "label": "Home Speakers",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/HomeSpeaker.png",
+        "link": "/products/electronics/home-speakers"
+      },
+      {
+        "label": "Laptops",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Laptops.png",
+        "link": "/products/electronics/laptops"
+      },
+      {
+        "label": "PC Gaming",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/PcGaming.png",
+        "link": "/products/electronics/pc-gaming"
+      },
+      {
+        "label": "Headphones",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/HeadPhones.png",
+        "link": "/products/electronics/headphones"
+      },
+      {
+        "label": "Mobile phones",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/MobilePhones.png",
+        "link": "/products/electronics/mobile-phones"
+      },
+      {
+        "label": "iPad & Tablets",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Ipad&Tablets.png",
+        "link": "/products/electronics/tablets"
+      },
+      {
+        "label": "Cameras",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Cameras.png",
+        "link": "/products/electronics/cameras"
+      }
+    ],
+
+    "promoProducts": [
+      {
+        "id": "electronics-promo-1",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/PromoImage.jpg",
+        "title": "onn Large Speaker Gen 2",
+        "subtitle": "Now with LED lighting",
+        "link": "/products/electronics/p1"
+      }
+    ],
+
+    "trendingSubtitle": "Hot gadgets selling right now.",
+    "highlyRatedSubtitle": "Top reviewed electronics from our buyers.",
+
+    "highlyRated": [
+      {
+        "title": "2025 Apple 11-inch iPad Air M4, Built for Advanced Intelligence, Wi-Fi 128GB",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/AppleIpad.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/hr1"
+      },
+      {
+        "title": "Apple Watch SE (2nd Gen) (GPS 40mm)",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/AppleWatch.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/hr2"
+      },
+      {
+        "id": "t1",
+        "title": "Straight Talk Motorola Razr 2024, 5G, 256GB (Gray)",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Motorola.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/t1"
+      },
+      {
+        "id": "t2",
+        "title": "DualSense Edge Wireless Controller for PS5",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/WirelessController.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/t2"
+      }
+    ],
+
+    "trendingProducts": [
+      {
+        "id": "t1",
+        "title": "onn Large Speaker Gen 2 with LED Lighting",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/PromoProd1.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/t1"
+      },
+      {
+        "id": "t2",
+        "title": "LG 86\" Class 4K Smart UHD TV (86UP8070PVA, 2022 Model) with AI ThinQ",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/PromoProd2.png",
+        "price": "₹1,000",
+        "rating": 4,
+        "link": "/products/electronics/t2"
+      }
+    ],
+
+    "brands": [
+      {
+        "name": "Apple",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Apple.png"
+      },
+      {
+        "name": "Samsung",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Samsung.png"
+      },
+      {
+        "name": "HP",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Hp.png"
+      },
+      {
+        "name": "ASUS",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Asus.png"
+      },
+      {
+        "name": "Sony",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Sony.png"
+      },
+      {
+        "name": "Canon",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Canon.png"
+      },
+      {
+        "name": "Lenovo",
+        "img": "/src/assets/ProductPageImages/ElectronicsPageImages/Lenovo.png"
+      }
+    ]
+  },
+
+  "fashion": {
+    "hero": {
+      "title": "\"Discover What’s New<br/>in Fashion\"",
+      "subtitle": "Step into new-season styles made for confidence and comfort. Elevate your wardrobe with modern design.",
+      "image": "/src/assets/ProductPageImages/FashionPageImages/FashionPageBanner.png"
+    },
+
+    "categories": [
+      {
+        "label": "Women",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Women.png",
+        "link": "/products/fashion/women"
+      },
+      {
+        "label": "Women’s plus",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/WomensPlus.png",
+        "link": "/products/fashion/womens-plus"
+      },
+      {
+        "label": "Shoes",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Shoes.png",
+        "link": "/products/fashion/shoes"
+      },
+      {
+        "label": "Bags & Accessories",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Bags.png",
+        "link": "/products/fashion/bags"
+      },
+      {
+        "label": "Jewelry & Watches",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Jewelry.png",
+        "link": "/products/fashion/jewelry"
+      },
+      {
+        "label": "Men’s",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Mens.png",
+        "link": "/products/fashion/mens"
+      },
+      {
+        "label": "Boy’s",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Boys.png",
+        "link": "/products/fashion/boys"
+      },
+      {
+        "label": "Girl’s",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Girls.png",
+        "link": "/products/fashion/girls"
+      },
+      {
+        "label": "New born & Toddler’s",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/NewBorn.png",
+        "link": "/products/fashion/newborn"
+      },
+      {
+        "label": "New Arrivals",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/NewArrivals.png",
+        "link": "/products/fashion/new-arrivals"
+      }
+    ],
+    "trendingSubtitle": "Hand-picked beauty essentials and trending shades.",
+    "highlyRatedSubtitle": "Top-rated by customers — reliable and loved.",
+    "promoProducts": [
+      {
+        "id": "fashion-promo-1",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/PromoImage.jpg",
+        "title": "Protect Your Look",
+        "subtitle": "Activewear & essentials on limited time sale",
+        "link": "/products/fashion/protect-your-look"
+      }
+    ],
+
+    "trendingProducts": [
+      {
+        "id": "t1",
+        "title": "Libas Peach Self Design Silk Blend Straight Kurta With Dupatta",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Libas.png",
+        "price": "₹2,599",
+        "rating": 4,
+        "link": "/products/fashion/t1"
+      },
+      {
+        "id": "t2",
+        "title": "Libas Peach Self Design Silk Blend Straight Kurta With Dupatta",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Libas2.png",
+        "price": "₹2,599",
+        "rating": 4,
+        "link": "/products/fashion/t2"
+      }
+    ],
+    "highlyRated": [
+      {
+        "id": "ef1",
+        "title": "Libas Peach Self Design Silk Blend Straight Kurta",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/EverydayImage1.png",
+        "price": "₹2,599",
+        "rating": 4,
+        "link": "/products/fashion/ef1"
+      },
+      {
+        "id": "ef2",
+        "title": "No Boundaries Classic Pullover",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/EverydayImage2.png",
+        "price": "₹2,599",
+        "rating": 4,
+        "link": "/products/fashion/ef2"
+      },
+      {
+        "id": "ef3",
+        "title": "Knotted Silver Toggle Bracelet",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/EverydayImage3.png",
+        "price": "₹799",
+        "rating": 4,
+        "link": "/products/fashion/ef3"
+      },
+      {
+        "id": "ef2",
+        "title": "No Boundaries Classic Pullover",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/EverydayImage2.png",
+        "price": "₹2,599",
+        "rating": 4,
+        "link": "/products/fashion/ef2"
+      }
+    ],
+
+    "brands": [
+      {
+        "name": "Levi’s",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Levis.png"
+      },
+      {
+        "name": "Reebok",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Reebok.png"
+      },
+      {
+        "name": "Lee",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Lee.png"
+      },
+      {
+        "name": "Crocs",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Crocs.png"
+      },
+      {
+        "name": "Wrangler",
+        "img": "/src/assets/ProductPageImages/FashionPageImages/Wrangler.png"
+      }
+    ]
+  }
+}

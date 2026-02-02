@@ -1,0 +1,151 @@
+{
+  "beauty": {
+    "hero": {
+      "title": "Beauty That Speaks<br/>Confidence",
+      "subtitle": "Step into new-season styles made for confidence and comfort. Elevate your wardrobe with modern design.",
+      "image": "/assets/ProductPageImages/BeautyPageImages/BeautyPageBanner.png"
+    },
+    "categories": [
+      { "label": "Haircare", "img": "/assets/ProductPageImages/BeautyPageImages/HairCare.png" },
+      { "label": "Skin care", "img": "/assets/ProductPageImages/BeautyPageImages/SkinCare.png" },
+      { "label": "Makeup", "img": "/assets/ProductPageImages/BeautyPageImages/MakeUp.png" },
+      { "label": "Hair tools", "img": "/assets/ProductPageImages/BeautyPageImages/HairTools.png" },
+      { "label": "Fragrances", "img": "/assets/ProductPageImages/BeautyPageImages/Fragrance.png" },
+      { "label": "Premium beauty", "img": "/assets/ProductPageImages/BeautyPageImages/PremiumBeauty.png" },
+      { "label": "Travel size", "img": "/assets/ProductPageImages/BeautyPageImages/TravelSize.png" },
+      { "label": "Beauty tools", "img": "/assets/ProductPageImages/BeautyPageImages/BeautyTools.png" },
+      { "label": "Suncare", "img": "/assets/ProductPageImages/BeautyPageImages/SunCare.png" },
+      { "label": "The Curl Shop", "img": "/assets/ProductPageImages/BeautyPageImages/CurlSoap.png" }
+    ],
+    "promoProducts": [
+        
+    ],
+    "highlyRated": [
+      {
+        "id": "h1",
+        "title": "Schwarzkopf Keratin Color Permanent Hair Color, 1.8 Ruby Noir, 1 Application",
+        "img": "/assets/ProductPageImages/BeautyPageImages/HighlyRated1.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "h2",
+        "title": "essence Juicy Bomb Shiny Lipgloss 104 Poppin’ Pomegranate",
+        "img": "/assets/ProductPageImages/BeautyPageImages/HighlyRated2.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "h3",
+        "title": "Wet n Wild Perfect Pout Lip Liner Stain Spilled Wine",
+        "img": "/assets/ProductPageImages/BeautyPageImages/HighlyRated3.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "h4",
+        "title": "essence Hydra Kiss Lip Oil 05 Midnight Mystery",
+        "img": "/assets/ProductPageImages/BeautyPageImages/HighlyRated4.png",
+        "price": "₹1,000",
+        "rating": 4
+      }
+    ],
+    "trendingProducts": [
+      {
+        "id": "t1",
+        "title": "KISS Self Adhesive Eyelashes WICKED x imPRESS, Bewitching",
+        "img": "/assets/ProductPageImages/BeautyPageImages/TrendingProd1.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "t2",
+        "title": "Revlon Super Lustrous Creme Lipstick, Creamy Formula, 046",
+        "img": "/assets/ProductPageImages/BeautyPageImages/TrendingProd2.png",
+        "price": "₹1,000",
+        "rating": 4
+      }
+    ],
+    "brands": [
+      { "name": "Lakme", "img": "/assets/ProductPageImages/BeautyPageImages/Lakme.png" },
+      { "name": "Lotus", "img": "/assets/ProductPageImages/BeautyPageImages/Lotus.png" },
+      { "name": "Forest", "img": "/assets/ProductPageImages/BeautyPageImages/Ayurveda.png" },
+      { "name": "Biotique", "img": "/assets/ProductPageImages/BeautyPageImages/Biotique.png" },
+      { "name": "Himalaya", "img": "/assets/ProductPageImages/BeautyPageImages/Himalaya.png" },
+      { "name": "Mama earth", "img": "/assets/ProductPageImages/BeautyPageImages/MamaEarth.png" },
+      { "name": "Indulekha", "img": "/assets/ProductPageImages/BeautyPageImages/Indulekha.png" }
+    ]
+  },
+  "electronics": {
+    "hero": {
+      "title": "Unlock the Best Tech<br/> Deals",
+      "subtitle": "Experience innovation at your fingertips with electronics designed to keep you ahead in every moment.",
+      "image": "/assets/ProductPageImages/ElectronicsPageImages/ElectronicsPageBanner.png"
+    },
+    "categories": [
+      { "label": "TV", "img": "/assets/ProductPageImages/ElectronicsPageImages/Tv.png" },
+      { "label": "Home Speakers", "img": "/assets/ProductPageImages/ElectronicsPageImages/HomeSpeaker.png" },
+      { "label": "Laptops", "img": "/assets/ProductPageImages/ElectronicsPageImages/Laptops.png" },
+      { "label": "PC Gaming", "img": "/assets/ProductPageImages/ElectronicsPageImages/PcGaming.png" },
+      { "label": "Headphones", "img": "/assets/ProductPageImages/ElectronicsPageImages/HeadPhones.png" },
+      { "label": "Mobile phones", "img": "/assets/ProductPageImages/ElectronicsPageImages/MobilePhones.png" },
+      { "label": "iPad & Tablets", "img": "/assets/ProductPageImages/ElectronicsPageImages/Ipad&Tablets.png" },
+      { "label": "Cameras", "img": "/assets/ProductPageImages/ElectronicsPageImages/Cameras.png" }
+    ],
+    "promoProducts": [
+      {
+        "id": "p1",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/PromoProd1.png",
+        "title": "onn Large Speaker Gen 2 with LED Lighting",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "p2",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/PromoProd2.png",
+        "title": "LG 86” 4K UHD UA75 AI Smart TV, 86UA7500",
+        "price": "₹10,000",
+        "rating": 4
+      }
+    ],
+    "highlyRated": [
+      {
+        "title": "2025 Apple 11-inch iPad Air M4, Built for Advanced Intelligence, Wi-Fi 128GB",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/AppleIpad.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "title": "Apple Watch SE (2nd Gen) (GPS 40mm) – Aluminum Case with Sport Band",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/AppleWatch.png",
+        "price": "₹1,000",
+        "rating": 4
+      }
+    ],
+    "trendingProducts": [
+      {
+        "id": "t1",
+        "title": "Straight Talk Motorola Razr 2024, 5G, 256GB (Gray) – Prepaid Smartphone",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/Motorola.png",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "id": "t2",
+        "title": "DualSense Edge Wireless Controller for PS5 with mappable buttons",
+        "img": "/assets/ProductPageImages/ElectronicsPageImages/WirelessController.png",
+        "price": "₹1,000",
+        "rating": 4
+      }
+    ],
+    "brands": [
+      { "name": "Apple", "img": "/assets/ProductPageImages/ElectronicsPageImages/Apple.png" },
+      { "name": "Samsung", "img": "/assets/ProductPageImages/ElectronicsPageImages/Samsung.png" },
+      { "name": "HP", "img": "/assets/ProductPageImages/ElectronicsPageImages/Hp.png" },
+      { "name": "ASUS", "img": "/assets/ProductPageImages/ElectronicsPageImages/Asus.png" },
+      { "name": "Sony", "img": "/assets/ProductPageImages/ElectronicsPageImages/Sony.png" },
+      { "name": "Canon", "img": "/assets/ProductPageImages/ElectronicsPageImages/Canon.png" },
+      { "name": "Lenovo", "img": "/assets/ProductPageImages/ElectronicsPageImages/Lenovo.png" }
+    ]
+  }
+}

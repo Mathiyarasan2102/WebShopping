@@ -1,0 +1,125 @@
+{
+  "browseBusinesses": {
+    "heading": "Browse top online businesses",
+    "items": [
+      {
+        "image": "/src/assets/BrowseBusinessesImages/CityCab.png",
+        "title": "CityCab – Modern Taxi Service UI",
+        "subtitle": "A sleek web design for city taxi services with smooth booking, routes.",
+        "price": "₹1,000",
+        "rating": 4.8
+      },
+      {
+        "image": "/src/assets/BrowseBusinessesImages/EasyRoom.png",
+        "title": "Easy Room",
+        "subtitle": "A minimal rental website offering quick room searches and easy booking.",
+        "price": "₹1,000",
+        "rating": 4.9
+      },
+      {
+        "image": "/src/assets/BrowseBusinessesImages/GoVibe.png",
+        "title": "GoVibe",
+        "subtitle": "Discover new places and experiences tailored to your travel vibe.",
+        "price": "₹1,000",
+        "rating": 4.7
+      }
+    ]
+  },
+
+  "rentWithConfidence": {
+    "heading": "Rent with Confidence",
+    "items": [
+      {
+        "image": "/src/assets/RentWithConfidenceImages/LearnEase.png",
+        "title": "LearnEase",
+        "subtitle": "Discover new places and environments tailored to your travel vibe.",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/RentWithConfidenceImages/Voyago.png",
+        "title": "Voyago",
+        "subtitle": "Discover new places and environments tailored to your travel vibe.",
+        "price": "₹1,000",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/RentWithConfidenceImages/EduWave.png",
+        "title": "EduWave",
+        "subtitle": "Discover new places and environments tailored to your travel vibe.",
+        "price": "₹1,000",
+        "rating": 4
+      }
+    ]
+  },
+
+  "successStories": {
+    "heading": "Real Results, Real Stories:",
+    "subheading": "See How Buyers and Sellers are Winning on Least action company",
+    "items": [
+      {
+        "image": "/src/assets/SuccessStoriesImages/PetConsultation.png",
+        "tag": "SUCCESS STORIES",
+        "title": "Built. Scaled. Exited with LA: Pet consultation app"
+      },
+      {
+        "image": "/src/assets/SuccessStoriesImages/AramNewsWebsite.png",
+        "tag": "SUCCESS STORIES",
+        "title": "Built. Scaled. Exited with LA: Aram News website"
+      },
+      {
+        "image": "/src/assets/SuccessStoriesImages/LA.png",
+        "tag": "SUCCESS STORIES",
+        "title": "Built. Scaled. Exited with LA: Least Action Academy"
+      }
+    ]
+  },
+
+  "electronics": {
+    "heading": "Electronics",
+    "items": [
+      {
+        "image": "/src/assets/ElectronicsSectionImages/WirelessHeadphones.png",
+        "title": "Beats Studio3 Wireless Noise Cancelling Headphones with Apple",
+        "price": "₹2,000",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/ElectronicsSectionImages/AppleWatch.png",
+        "title": "Apple Watch SE (2nd Gen) [GPS 44mm] Smartwatch with Midnight",
+        "price": "₹35,500",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/ElectronicsSectionImages/BeatsEarbuds.png",
+        "title": "Beats by Dr. Dre Beats Solo Bluetooth In Ear ‘Ear Buds’, Multi-",
+        "price": "₹5,000",
+        "rating": 4
+      }
+    ]
+  },
+
+  "otherProducts": {
+    "heading": "Other Products",
+    "items": [
+      {
+        "image": "/src/assets/OtherProductsImages/GameConsole.png",
+        "title": "Video Game Console kids electronics 480*272 resolution handheld",
+        "price": "₹2,000",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/OtherProductsImages/SmartTv.png",
+        "title": "onn 50” Class 4K UHD (2160P) LED Roku Smart Television HDR",
+        "price": "₹55,500",
+        "rating": 4
+      },
+      {
+        "image": "/src/assets/OtherProductsImages/StreamingDevice.png",
+        "title": "Roku Streaming Stick HD 2025 – HD Roku Streaming Device for TV",
+        "price": "₹1,500",
+        "rating": 4
+      }
+    ]
+  }
+}
